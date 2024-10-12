@@ -1,2 +1,1 @@
-# payment
-Adding PayPal as a payment option to page
+This project is a <a href="https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/" target="_blank">tutorial</a> from FreeCodeCamp that helps integrate PayPal into you online store
